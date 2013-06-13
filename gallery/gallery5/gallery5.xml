@@ -1,0 +1,10 @@
+﻿<gallerys>
+	<gallery>
+		<data date="14.07.2008" bgImg="images/big/07.jpg" Img="images/thumbs/th_07.jpg" titlex="Image title seven" desx="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</data>
+
+		<data date="16.07.2008" bgImg="images/big/08.jpg" Img="images/thumbs/th_08.jpg" titlex="Image title eight" desx="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</data>
+
+		<data date="18.01.2010" bgImg="images/big/09.jpg" Img="images/thumbs/th_09.jpg" titlex="Image title one" desx="Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam.">Nisi ut aliquid ex ea commodi veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid consequatur.</data>
+
+	</gallery>
+</gallerys>
