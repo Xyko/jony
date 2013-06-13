@@ -1,9 +1,0 @@
-﻿<gallerys>
-	<gallery>
-		
-		<data date="02.01.2010" bgImg="images/big/01.jpg" Img="images/thumbs/th_01.jpg" titlex="Armario 01" desx="Este texto descreve a imagem 01."> Testando a posição do texto 01</data>
-		
-		<data date="04.02.2009" bgImg="images/big/02.jpg" Img="images/thumbs/th_02.jpg" titlex="Armario 02" desx="Este texto descreve a imagem 01."> Testando a posição do texto 02</data>
-		
-	</gallery>
-</gallerys>

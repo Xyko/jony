@@ -1,6 +1,0 @@
-﻿<menu>
-<menus id="menu">
-		<Menu btnName="Trabalhos 1" p="1" f="gallery1" css="config" bg="on" bgImg="images/background/1.jpg"></Menu>
-		<Menu btnName="Trabalhos 2" p="1" f="gallery2" css="config" bg="on" bgImg="images/background/2.jpg"></Menu>
-</menus>
-</menu>
