@@ -270,6 +270,12 @@ h3 {
 
 /* end of content */
 
+
+
+#galleria{height:320px}
+
+
+
 /* content */
 
 #logo {
@@ -280,7 +286,7 @@ h3 {
 	top: 30px;
 	left: 50px;
 	padding: 0 16px 0 64px;
-	background:  url(images/jony_logo.png) top center no-repeat; 
+	background:  url(images/logo.jpg) top center no-repeat; 
 }
 
 
