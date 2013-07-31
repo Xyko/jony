@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+    <head>
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
+        <script src="../galleria/galleria-1.2.9.min.js"></script>
+        <style>
+            #galleria{ width: 700px; height: 400px; background: #000 }
+        </style>
+    </head>
+    <body>
+        <div id="galleria">
+            <img src="./img/giselle.jpg"
+                data-title="Titulo 1" 
+                data-description="Titulo 2" 
+            >
+            <img src="./img/nadia1.jpg">
+            <img src="./img/nadia2.jpg">
+            <img src="./img/rose1.jpg">
+            <img src="./img/rose2.jpg">
+        </div>
+        <script>
+            Galleria.loadTheme('../galleria/themes/classic/galleria.classic.min.js');
+            Galleria.run('#galleria');
+        </script>
+    </body>
+</html>
