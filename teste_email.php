@@ -1,16 +1,16 @@
 <?php
 // Contact subject
-$subject ="$subject";
+$subject ="Teste do email";
 // Details
-$message="$detail";
+$message="Corpo da messagem";
 
 // Mail of sender
-$mail_from="$customer_mail";
+$mail_from="$teste@teste.com";
 // From
-$header="from: $name <$mail_from>";
+$header="from: Francisco <francisco@teste.com>";
 
 // Enter your email address
-$to ='someone@somewhere.com';
+$to ='francisco@corp.globo.com';
 
 $send_contact=mail($to,$subject,$message,$header);
 
