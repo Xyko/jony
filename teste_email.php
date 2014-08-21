@@ -5,9 +5,9 @@ $subject ="Teste do email";
 $message="Corpo da messagem";
 
 // Mail of sender
-$mail_from="$teste@teste.com";
+$mail_from="teste@teste.com";
 // From
-$header="from: Francisco <francisco@teste.com>";
+$header="from: Francisco <test@test.com>";
 
 // Enter your email address
 $to ='francisco@corp.globo.com';
